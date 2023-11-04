@@ -1,4 +1,5 @@
 <div align="center">
+<img src="assets\automate\minecraft_automate.png" alt="Profile Icon" width="300" hight="150"/> <br>
   <h1><a>Automate</a></h1>
   <h6><i>Adapted form Create Mod Made Available for the Slimefun 4 plugin</i></h6>
 </div>
