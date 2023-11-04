@@ -32,5 +32,5 @@
   </p>
 </div>
 <div aligin="center">
-  <h4> Changelog <a href="assets/automate/changelog(s)/changelog-0.0.5-1.20.1.txt" target="_blank">0.0.5-1.20.1</a></h4>
+  <h4> Changelog: <a href="assets/automate/changelog(s)/changelog-0.0.5-1.20.1.txt" target="_blank">Automate</a> 0.0.5-1.20.1</h4>
 </div>
