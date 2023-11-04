@@ -31,3 +31,6 @@
     (Email) <a href="mailto:gamingoninsulin@gmail.com">GamingOnInsulin</a>
   </p>
 </div>
+<div aligin="center">
+  <h4> Changelog <a href="assets/automate/changelog(s)/changelog-0.0.5-1.20.1.txt" target="_blank">0.0.5-1.20.1</a></h4>
+</div>
