@@ -1,5 +1,8 @@
 <div align="center">
   <img src="assets\automate\minecraft_automate.png" alt="Profile Icon" width="500" hight="350"/>
+  <p>
+    Check here our <a href="README.md" target="_blank">README</a>
+  </p>
 </div>
 
 
